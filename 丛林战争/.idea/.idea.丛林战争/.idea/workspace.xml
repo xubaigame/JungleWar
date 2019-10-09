@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d442eff1-f141-426d-b878-a80dda47701d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/丛林战争服务端/Model/User.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1570187450062" expanded="false" signature="6:115" ph="..." />
+                <marker date="1570187450062" expanded="true" signature="140:299" ph="{...}" />
+                <marker date="1570187450062" expanded="true" signature="157:297" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/丛林战争服务端/Servers/Client.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <marker date="1570187436045" expanded="false" signature="6:138" ph="..." />
+                <marker date="1570187436045" expanded="true" signature="165:3383" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="184:3381" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="546:588" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="646:910" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="955:1160" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="1215:1639" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="1241:1506" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="1344:1409" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="1538:1629" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="1736:1825" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="1854:2066" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="2128:2254" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="2311:2385" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="2420:2541" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="2584:2728" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="2756:2804" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="2853:2950" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="3004:3206" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="3074:3137" ph="{...}" />
+                <marker date="1570187436045" expanded="true" signature="3250:3375" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/丛林战争服务端/Config.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <marker date="1556721390000" expanded="false" signature="6:169" ph="..." />
+                <marker date="1556721390000" expanded="true" signature="188:1596" ph="{...}" />
+                <marker date="1556721390000" expanded="true" signature="215:1594" ph="{...}" />
+                <marker date="1556721390000" expanded="true" signature="452:507" ph="{...}" />
+                <marker date="1556721390000" expanded="true" signature="543:598" ph="{...}" />
+                <marker date="1556721390000" expanded="true" signature="639:699" ph="{...}" />
+                <marker date="1556721390000" expanded="true" signature="738:796" ph="{...}" />
+                <marker date="1556721390000" expanded="true" signature="829:884" ph="{...}" />
+                <marker date="1556721390000" expanded="true" signature="908:1588" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/丛林战争服务端/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding>
+                <marker date="1570190318720" expanded="false" signature="6:254" ph="..." />
+                <marker date="1570190318720" expanded="true" signature="273:543" ph="{...}" />
+                <marker date="1570190318720" expanded="true" signature="293:541" ph="{...}" />
+                <marker date="1570190318720" expanded="true" signature="339:535" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/丛林战争服务端/Servers/Server.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+              <folding>
+                <marker date="1556721391000" expanded="false" signature="6:223" ph="..." />
+                <marker date="1556721391000" expanded="true" signature="250:2846" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="269:2844" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="507:588" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="632:747" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="802:890" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="919:1296" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="1353:1622" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="1671:1792" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="1877:1960" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="2072:2173" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="2220:2348" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="2390:2520" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="2443:2510" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="2559:2608" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="2649:2838" ph="{...}" />
+                <marker date="1556721391000" expanded="true" signature="2702:2803" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/丛林战争服务端/Config/ServerConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/丛林战争服务端/Config.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/丛林战争服务端/Model/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../JungleWarClient/Assets/Scripts/Game/Config.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/丛林战争服务端/Servers/Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/丛林战争服务端/Servers/Server.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/丛林战争服务端/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/丛林战争服务端/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/丛林战争服务端/Servers/Client.cs" />
+        <option value="$PROJECT_DIR$/丛林战争服务端/Model/User.cs" />
+        <option value="$PROJECT_DIR$/../JungleWarClient/Assets/Scripts/Game/Config.cs" />
+        <option value="$PROJECT_DIR$/丛林战争服务端/Config/ServerConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3" />
+    <option name="y" value="23" />
+    <option name="width" value="1917" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="丛林战争" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="丛林战争" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="丛林战争服务端" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.CSharpInteractiveConfiguration" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/丛林战争服务端/bin/Debug/丛林战争服务端.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/丛林战争服务端/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/丛林战争服务端/丛林战争服务端.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d442eff1-f141-426d-b878-a80dda47701d" name="Default Changelist" comment="" />
+      <created>1570186866950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570186866950</updated>
+      <workItem from="1570186869347" duration="637000" />
+      <workItem from="1570187759606" duration="1375000" />
+      <workItem from="1570190380685" duration="88000" />
+      <workItem from="1570609694595" duration="714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2814000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16151386" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37053087" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2665222" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/丛林战争服务端/App.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JungleWarClient/Assets/Scripts/Game/Config.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/丛林战争服务端/Model/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1570187450062" expanded="false" signature="6:115" ph="..." />
+            <marker date="1570187450062" expanded="true" signature="140:299" ph="{...}" />
+            <marker date="1570187450062" expanded="true" signature="157:297" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/丛林战争服务端/Servers/Client.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <marker date="1570187436045" expanded="false" signature="6:138" ph="..." />
+            <marker date="1570187436045" expanded="true" signature="165:3383" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="184:3381" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="546:588" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="646:910" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="955:1160" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="1215:1639" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="1241:1506" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="1344:1409" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="1538:1629" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="1736:1825" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="1854:2066" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="2128:2254" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="2311:2385" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="2420:2541" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="2584:2728" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="2756:2804" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="2853:2950" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="3004:3206" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="3074:3137" ph="{...}" />
+            <marker date="1570187436045" expanded="true" signature="3250:3375" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/丛林战争服务端/Config.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <marker date="1556721390000" expanded="false" signature="6:169" ph="..." />
+            <marker date="1556721390000" expanded="true" signature="188:1596" ph="{...}" />
+            <marker date="1556721390000" expanded="true" signature="215:1594" ph="{...}" />
+            <marker date="1556721390000" expanded="true" signature="452:507" ph="{...}" />
+            <marker date="1556721390000" expanded="true" signature="543:598" ph="{...}" />
+            <marker date="1556721390000" expanded="true" signature="639:699" ph="{...}" />
+            <marker date="1556721390000" expanded="true" signature="738:796" ph="{...}" />
+            <marker date="1556721390000" expanded="true" signature="829:884" ph="{...}" />
+            <marker date="1556721390000" expanded="true" signature="908:1588" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/丛林战争服务端/Servers/Server.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+          <folding>
+            <marker date="1556721391000" expanded="false" signature="6:223" ph="..." />
+            <marker date="1556721391000" expanded="true" signature="250:2846" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="269:2844" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="507:588" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="632:747" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="802:890" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="919:1296" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="1353:1622" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="1671:1792" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="1877:1960" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="2072:2173" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="2220:2348" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="2390:2520" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="2443:2510" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="2559:2608" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="2649:2838" ph="{...}" />
+            <marker date="1556721391000" expanded="true" signature="2702:2803" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tcp服务器端/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/丛林战争服务端/Config/ServerConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/丛林战争服务端/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <marker date="1570190318720" expanded="false" signature="6:254" ph="..." />
+            <marker date="1570190318720" expanded="true" signature="273:543" ph="{...}" />
+            <marker date="1570190318720" expanded="true" signature="293:541" ph="{...}" />
+            <marker date="1570190318720" expanded="true" signature="339:535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

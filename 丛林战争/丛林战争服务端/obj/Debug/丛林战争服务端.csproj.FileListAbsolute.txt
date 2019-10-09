@@ -1,0 +1,152 @@
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.exe.config
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.exe
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.pdb
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/Microsoft.Win32.Primitives.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/netstandard.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.AppContext.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Collections.Concurrent.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Collections.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Collections.NonGeneric.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Collections.Specialized.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.ComponentModel.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.ComponentModel.Primitives.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.ComponentModel.TypeConverter.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Console.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Data.Common.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Diagnostics.Contracts.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Diagnostics.Debug.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Diagnostics.Process.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Diagnostics.StackTrace.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Diagnostics.Tools.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Diagnostics.TraceSource.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Diagnostics.Tracing.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Drawing.Primitives.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Dynamic.Runtime.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Globalization.Calendars.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Globalization.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Globalization.Extensions.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.Compression.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.Compression.ZipFile.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.FileSystem.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.FileSystem.Primitives.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.FileSystem.Watcher.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.IsolatedStorage.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.MemoryMappedFiles.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.Pipes.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Linq.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Linq.Expressions.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Linq.Parallel.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Linq.Queryable.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.Http.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.NameResolution.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.NetworkInformation.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.Ping.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.Primitives.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.Requests.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.Security.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.Sockets.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.WebHeaderCollection.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.WebSockets.Client.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Net.WebSockets.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.ObjectModel.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Reflection.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Reflection.Extensions.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Reflection.Primitives.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Resources.Reader.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Resources.ResourceManager.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Resources.Writer.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.Extensions.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.Handles.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.InteropServices.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.Numerics.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.Serialization.Formatters.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.Serialization.Json.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.Serialization.Primitives.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Runtime.Serialization.Xml.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Security.Claims.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Security.Cryptography.Algorithms.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Security.Cryptography.Csp.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Security.Cryptography.Encoding.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Security.Cryptography.Primitives.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Security.Principal.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Security.SecureString.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Text.Encoding.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Text.Encoding.Extensions.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Text.RegularExpressions.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Threading.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Threading.Overlapped.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Threading.Tasks.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Threading.Tasks.Parallel.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Threading.Thread.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Threading.ThreadPool.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Threading.Timer.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.ValueTuple.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Xml.ReaderWriter.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Xml.XDocument.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Xml.XmlDocument.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Xml.XmlSerializer.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Xml.XPath.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/System.Xml.XPath.XDocument.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/Common.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/MySql.Data.dll
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/Common.pdb
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.csprojAssemblyReference.cache
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.exe.config
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.csproj.CoreCompileInputs.cache
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.csproj.CopyComplete
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.exe
+F:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.pdb
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.exe.config
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.exe
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.pdb
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/common.dll
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/MySql.Data.dll
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/common.pdb
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.csprojAssemblyReference.cache
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.csproj.CoreCompileInputs.cache
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.csproj.CopyComplete
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.exe
+E:/Unity/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.pdb
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.exe.config
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.exe
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.pdb
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/common.dll
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/MySql.Data.dll
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/common.pdb
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.csprojAssemblyReference.cache
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.csproj.CoreCompileInputs.cache
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.csproj.CopyComplete
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.exe
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.pdb
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.exe.manifest
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/丛林战争服务端.application
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.exe.manifest
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.application
+F:/Unity/Project/Development/Jungle War/Code/丛林战争/丛林战争服务端/bin/Debug/Config/ServerConfig.xml
+/Volumes/Game/Unity/Project/Finish/Program/丛林战争/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.exe
+/Volumes/Game/Unity/Project/Finish/Program/丛林战争/Code/丛林战争/丛林战争服务端/obj/Debug/丛林战争服务端.pdb
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\obj\Debug\丛林战争服务端.exe
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\obj\Debug\丛林战争服务端.pdb
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\bin\Debug\Config\ServerConfig.xml
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\bin\Debug\丛林战争服务端.exe.config
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\bin\Debug\丛林战争服务端.exe.manifest
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\bin\Debug\丛林战争服务端.application
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\bin\Debug\丛林战争服务端.exe
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\bin\Debug\丛林战争服务端.pdb
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\bin\Debug\common.dll
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\bin\Debug\MySql.Data.dll
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\bin\Debug\common.pdb
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\obj\Debug\丛林战争服务端.exe.manifest
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\obj\Debug\丛林战争服务端.application
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\obj\Debug\丛林战争服务端.csprojAssemblyReference.cache
+F:\Unity\Projects\Finished\JungleWar\丛林战争\丛林战争服务端\obj\Debug\丛林战争服务端.csproj.CopyComplete

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Config>
+  <DataBase>
+    <Type>MysqlHelper</Type>
+    <Sources>datasource=39.96.5.207;database=junglewar;user=root;password=weizhilin815</Sources>
+    <NameSpace>丛林战争服务端.Tool.</NameSpace>
+  </DataBase>
+  <Server>
+    <IPAddress>127.0.0.1</IPAddress>
+    <IPPort>6688</IPPort>
+  </Server>
+</Config>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Config>
+  <DataBase>
+    <Type>MysqlHelper</Type>
+    <Sources>datasource=xxx.xxx.xxx.xxx;database=xxx;user=xxx;password=xxx</Sources>
+    <NameSpace>丛林战争服务端.Tool.</NameSpace>
+  </DataBase>
+  <Server>
+    <IPAddress>xxx.xxx.xxx.xxx</IPAddress>
+    <IPPort>xxxx</IPPort>
+  </Server>
+</Config>
