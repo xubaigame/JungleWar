@@ -1,9 +1,7 @@
 # 丛林战争
-**作者：vili &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;联系方式：vili_wzl@126.com**
+**作者：积极向上小木木 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：PositiveMumu@126.com**
 
-*丛林战争是一个小型的网络对战游戏。游戏分为客户端和服务端*
-
-[TOC]
+*小型网络对战游戏。游戏分为客户端和服务端*
 
 ## 一、项目介绍
 
