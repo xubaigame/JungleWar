@@ -22,7 +22,7 @@
 	- 在线对战。
 
 ## 二、网络通信框架
-![mark](http://image.vilicode.com/blog/20191009/SDdAKmWGhj5O.jpg?imageslim)
+![网络通信框架](README/网络通信框架.jpg)
 
 ## 三、项目信息
 1. 丛林战争服务端使用Rider_2018.3.5（VS_2017）开发。
@@ -64,36 +64,36 @@
 ## 六、项目截图
 1. 初始页面：
 
-	![mark](http://image.vilicode.com/blog/20191009/EYOh8OA9atk2.png?imageslim)
+	![初始页面](README/初始页面.png)
 	
 2. 登录：
 
-	![mark](http://image.vilicode.com/blog/20191009/zOgwkqslYvOw.png?imageslim)
+	![登录](README/登录.png)
 	
 3. 注册：
 
-	![mark](http://image.vilicode.com/blog/20191009/Fyr77TKEzdb2.png?imageslim)
+	![注册](README/注册.png)
 	
 4. 房间列表：
 
-	![mark](http://image.vilicode.com/blog/20191009/pqynftolLs5O.png?imageslim)
+	![房间列表](README/房间列表.png)
 	
 5. 创建房间：
 
-	![mark](http://image.vilicode.com/blog/20191009/5A5x18fA0Bs4.png?imageslim)
+	![创建房间](README/创建房间.png)
 	
 6. 刷新房间列表：
 
-	![mark](http://image.vilicode.com/blog/20191009/qaRtiyOSdeIM.png?imageslim)
+	![刷新房间列表](README/刷新房间列表.png)
 	
 7. 加入房间：
 
-	![mark](http://image.vilicode.com/blog/20191009/lHojonx065dH.png?imageslim)
+	![加入房间](README/加入房间.png)
 	
 8. 蓝色方视角：
 
-	![mark](http://image.vilicode.com/blog/20191009/LnQFGFcXGmN7.png?imageslim)
+	![网络通信框架](README/网络通信框架.png)
 	
 9. 红色方视角：
 
-	![mark](http://image.vilicode.com/blog/20191009/2Wg1P4hehYIQ.png?imageslim)
+	![红色方视角](README/红色方视角.png)
